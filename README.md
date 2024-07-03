@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ... Analise de Dados em Python
 - 💞️ I’m looking to collaborate on ... Analise de dados
 - 📫 How to reach me ... 22 992033212
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Diogoprogramador/Diogoprogramador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
