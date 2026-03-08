@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Diogoprogramador
-- 👀 I’m interested in ... Divulgar meus trabalhos
-- 🌱 I’m currently learning ... Analise de Dados em Python
-- 💞️ I’m looking to collaborate on ... Analise de dados
-- 📫 How to reach me ... 22 992033212
+# Diogo Programador
+🎓 Engenharia da Computação | Ciência de Dados | Computação Científica
 
-<!---
-Diogoprogramador/Diogoprogramador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Habilidades
+- **Linguagens**: Python, R, C, Fortran, SQL
+- **Análise de Dados**: Pandas, NumPy, ggplot2, dplyr
+- **Engenharia**: Análise Estrutural, Computação Científica
+- **Ferramentas**: Git, Docker, Linux, Make
+
+## 📊 Projetos
+📈 [Análise de Dados INEP](https://github.com/Diogoprogramador/diogo-nascimento-data-analysis-dashboard) - Análise de dados educacionais em R
+🗄️ [Sistema de Banco de Dados](https://github.com/Diogoprogramador/mini-banco-dados-c) - Aplicação CRUD em C  
+🔬 [Análise Estrutural](https://github.com/Diogoprogramador/analise-estrutural-fortran) - Cálculos de engenharia em Fortran
+
+## 📫 Contato
+📧 diogo.programador@email.com
+💼 linkedin.com/in/diogo-programador
+📱 +55 22 992318219
