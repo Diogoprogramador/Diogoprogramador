@@ -1,5 +1,5 @@
 # Diogo Programador
-🎓 Engenharia da Computação | Ciência de Dados | Computação Científica
+🎓 ADS | Ciência de Dados | Análise de Dados
 
 ## 🛠️ Habilidades
 - **Linguagens**: Python, R, C, Fortran, SQL
